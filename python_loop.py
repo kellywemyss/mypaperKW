@@ -1,7 +1,7 @@
 # Released under Apache 2 open source licence 
 #This code is used for writing a paper about loops
 
-word = "Newton"
+word = "Einstein"
 reversed word = ""
 
 for char in word:
